@@ -39,3 +39,6 @@ Once you open the **CCS**, source the workspace.
 $ source /opt/ros/<distro>/setup.bash
 $ source cd $HOME/hrwros_ws/devel/setup.bash
 ```
+## Platform
+
+## Implementation
