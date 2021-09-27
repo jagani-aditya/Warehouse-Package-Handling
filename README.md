@@ -42,9 +42,13 @@ $ source cd $HOME/hrwros_ws/devel/setup.bash
 
 ![Warehouse Application using ROS 1](/Media/Warehouse Application using ROS_Trim_111.gif)
 
-![Warehouse Application using ROS 2](/Media/Warehouse Application using ROS_Trim_222.gif) ![Warehouse Application using ROS 3](/Media/Warehouse Application using ROS_Trim_333.gif)
+![Warehouse Application using ROS 2](/Media/Warehouse Application using ROS_Trim_222.gif) 
 
-![Warehouse Application using ROS 4](/Media/Warehouse Application using ROS_Trim_444.gif) ![Warehouse Application using ROS 5](/Media/Warehouse Application using ROS_Trim_555.gif)
+![Warehouse Application using ROS 3](/Media/Warehouse Application using ROS_Trim_333.gif)
+
+![Warehouse Application using ROS 4](/Media/Warehouse Application using ROS_Trim_444.gif) 
+
+![Warehouse Application using ROS 5](/Media/Warehouse Application using ROS_Trim_555.gif)
 
 ## Platform
 
