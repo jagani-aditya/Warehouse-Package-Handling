@@ -1,9 +1,17 @@
 # Parcel Handling in Warehouse ROS
 
 ### Download requirements
-Download the CCS(Course Command Shell) - [For Ubuntu 16.06](https://courses.edx.org/assets/courseware/v1/4beeefd3ac34401321609d7697f9097f/asset-v1:DelftX+ROS1x+1T2020+type@asset+block/singularity-container_2.6.1-1_amd64_ubuntu_xenial16.04.deb), [For Ubuntu 18.04](https://courses.edx.org/assets/courseware/v1/626dbd92c8dd641c5657f8d9ec43ead2/asset-v1:DelftX+ROS1x+1T2020+type@asset+block/singularity-container_2.6.1-1_amd64_ubuntu_bionic18.04.deb)
 
 ## Project Description
+## Platform
+
+* Ubuntu 16.04 LTS
+* ROS Kinetic
+
+## Implementation
+
+Download the CCS(Course Command Shell) - [For Ubuntu 16.06](https://courses.edx.org/assets/courseware/v1/4beeefd3ac34401321609d7697f9097f/asset-v1:DelftX+ROS1x+1T2020+type@asset+block/singularity-container_2.6.1-1_amd64_ubuntu_xenial16.04.deb)
+
 After downloading, navigate to a new terminal.
 ```
 $ sudo dpkg -i $HOME/<path_of_download>/<download_filename>
@@ -39,6 +47,4 @@ Once you open the **CCS**, source the workspace.
 $ source /opt/ros/<distro>/setup.bash
 $ source cd $HOME/hrwros_ws/devel/setup.bash
 ```
-## Platform
 
-## Implementation
