@@ -1,7 +1,8 @@
 # Warehouse Package Handling
-Implemented basic concepts of behavior design with state machines and built a production line application with two industrial robot arms and a mobile robot using the ROS framework.
 
 ## Project Description
+
+Implemented basic concepts of behavior design with state machines and built a production line application with two industrial robot arms and a mobile robot using the ROS framework.
 
 ![Warehouse Application using ROS 1](/Media/WarehouseApplication1.gif)
 
